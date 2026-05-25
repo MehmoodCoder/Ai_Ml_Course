@@ -1,4 +1,4 @@
-name: base
+name: Ml_Project
 channels:
   - defaults
 dependencies:
