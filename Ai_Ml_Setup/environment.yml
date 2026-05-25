@@ -9,5 +9,3 @@ dependencies:
   - scikit-learn
   - matplotlib
   - seaborn
-  - scipy
-  - xgboost 
