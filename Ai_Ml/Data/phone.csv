@@ -1,11 +1,11 @@
 brand,model,storage_gb,ram_gb,price_pkr,condition
-Samsung,Galaxy S23,256,8,195000,New
-Apple,iPhone 17,512,8,520000,Used
-Xiaomi,Redmi Note 13,256,8,55000,New
-Infinix,Note 40,256,12,48000,New
-Realme,C67,128,8,39000,New
-Tecno,Camon 30,256,8,42000,Used
-Vivo,Y200,128,8,62000,New
-Oppo,A78,256,8,58000,Used
-OnePlus,Nord CE 3,256,12,95000,New
-Google,Pixel 7,128,8,115000,Used
+Samsung,Galaxy S23,256,8,Rs.195000,New
+Apple,iPhone 17,512,8,Rs.520000,Used
+Xiaomi,Redmi Note 13,256,8,Rs.55000,New
+Infinix,Note 40,256,12,Rs.48000,New
+Realme,C67,128,8,Rs.39000,New
+Tecno,Camon 30,256,8,Rs.42000,Used
+Vivo,Y200,128,8,Rs.62000,New
+Oppo,A78,256,8,Rs.58000,Used
+OnePlus,Nord CE 3,256,12,Rs.95000,New
+Google,Pixel 7,128,8,Rs.115000,Used
